@@ -1,0 +1,14 @@
+*
+!README.md
+
+!.gitignore
+!AGENTS.md
+
+!config/
+!config/rules
+!config/rules/*.md
+!config/mcp_config.json
+
+!antigravity-cli/
+!antigravity-cli/skills
+!antigravity-cli/skills/**
